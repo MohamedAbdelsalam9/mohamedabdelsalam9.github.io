@@ -111,6 +111,13 @@ header {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+title_header {
+  width:284px;
+  float:center;
+  position:fixed;
+  -webkit-font-smoothing:subpixel-antialiased;
+}
+
 ul.downloads {
   list-style:none;
   height:30px;
@@ -160,9 +167,9 @@ strong {
   font-weight:700;
 }
 
-.downloads li + li + li {
+.downloads li + li + li + li {
   border-right:none;
-  width:89px;
+  width:70px;
 }
 
 .downloads a strong {
