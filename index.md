@@ -9,8 +9,7 @@ I am currently doing a Master of Research in Machine Learning at
 ## Research
 My researsh interests are generally broad within the field of machine learning and deep learning. My current focus is in the area of incremental learning and how the models should be smarter in accumulating new knowledge and learning new tasks without foregoing previous knowledge and experience, even when data for these previous tasks is not there or is very limited. 
 
+
 ### IIRC: Incremental Implicitly Refined Classification
-![IIRC](./images/summary.png =350x)
-<p align="left">
-  <img src="images/summary.png" width="350" title="IIRC">
-</p>
+<img src="./images/summary.jpg" alt="" width="350" height="200" id="ri"/> IIRC: Incremental Implicitly Refined Classification
+
