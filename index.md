@@ -21,7 +21,7 @@ A setup and benchmark to evaluate lifelong learning models in more dynamic and r
 
  <div class="publication">
   <div class="image">
-    <img src="./images/summary.png" alt=">
+    <img src="./images/summary.png" alt="">
   </div>
     <div class="text">
         *Mohamed Abdelsalam, Mojtaba Faramarzi, Shagun Sodhani, Sarath Chandar*
