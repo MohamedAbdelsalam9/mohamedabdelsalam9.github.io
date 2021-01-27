@@ -19,4 +19,14 @@ A setup and benchmark to evaluate lifelong learning models in more dynamic and r
 <br />
 [Homepage](https://chandar-lab.github.io/IIRC/) | [arXiv](https://arxiv.org/abs/2012.12477) | [Documentation](https://iirc.readthedocs.io/en/latest/) | [Code](https://github.com/chandar-lab/IIRC/)
 
-
+ <div class="publication">
+  <div class="image">
+    <img src="./images/summary.png" alt=">
+  </div>
+    <div class="text">
+        *Mohamed Abdelsalam, Mojtaba Faramarzi, Shagun Sodhani, Sarath Chandar*
+<br />
+      A setup and benchmark to evaluate lifelong learning models in more dynamic and realistic scenarios.
+<br />
+    </div>
+  </div>
