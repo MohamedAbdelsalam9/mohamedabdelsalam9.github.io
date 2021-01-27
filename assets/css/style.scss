@@ -10,7 +10,6 @@ float: left;
 
 .publication {
  display: flex;
- flex-wrap: wrap;
 }
 .publication.image{
  flex: 35%;
@@ -20,10 +19,13 @@ float: left;
  flex: 60%;
 }
 
-@media (max-width: 800px) {
-  .publication.image, .publication.text {
+@media (max-width: 620px) {
+ .publication.text {
     flex: 100%;
   }
+ .publication.image,{
+  flex: 80%;
+ }
 }
 //   &__image {
 //     display: inline-block;
