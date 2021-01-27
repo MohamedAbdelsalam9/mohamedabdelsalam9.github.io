@@ -11,5 +11,5 @@ My researsh interests are generally broad within the field of machine learning a
 
 
 ### IIRC: Incremental Implicitly Refined Classification
-<img src="./images/summary.jpg" alt="" width="350" height="200" id="ri"/> IIRC: Incremental Implicitly Refined Classification
+<img src="./images/summary.png" alt="" width="250" height="150" id="ri"/> IIRC: Incremental Implicitly Refined Classification
 
