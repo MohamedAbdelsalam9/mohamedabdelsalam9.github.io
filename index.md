@@ -11,6 +11,12 @@ I am currently doing a Master of Research in Machine Learning at
 My researsh interests are generally broad within the field of machine learning and deep learning. My current focus is in the area of incremental learning and how the models should be smarter in accumulating new knowledge and learning new tasks without foregoing previous knowledge and experience, even when data for these previous tasks is not there or is very limited. 
 
 
-### IIRC: Incremental Implicitly Refined Classification
-<img src="./images/summary.png" alt="" width="250" height="150" id="ri"/> IIRC: Incremental Implicitly Refined Classification
+<img src="./images/summary.png" alt="" width="250" height="150" id="ri"/> **IIRC: Incremental Implicitly Refined Classification** /
+<br />
+Mohamed Abdelsalam, Mojtaba Faramarzi, Shagun Sodhani, Sarath Chandar
+<br />
+A setup and benchmark to evaluate lifelong learning models in more real-life aligned scenarios.
+<br />
+[Project Page](https://chandar-lab.github.io/IIRC/) | [Paper](https://arxiv.org/abs/2012.12477) | [Package Documentation](https://iirc.readthedocs.io/en/latest/) | [Code](https://github.com/chandar-lab/IIRC/)
+
 
