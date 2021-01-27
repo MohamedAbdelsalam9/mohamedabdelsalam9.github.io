@@ -10,15 +10,6 @@ I am currently doing a Master of Research in Machine Learning at
 ## Research
 My researsh interests are generally broad within the field of machine learning and deep learning. My current focus is in the area of incremental learning and how the models should be smarter in accumulating new knowledge and learning new tasks without forgetting previous knowledge and experience, even when data for these previous tasks is not there or is very limited. 
 
-
-<img src="./images/summary.png" alt="" width="250" height="150" id="ri"/> [**IIRC: Incremental Implicitly Refined Classification**](https://chandar-lab.github.io/IIRC/)
-<br />
-*Mohamed Abdelsalam, Mojtaba Faramarzi, Shagun Sodhani, Sarath Chandar*
-<br />
-A setup and benchmark to evaluate lifelong learning models in more dynamic and realistic scenarios.
-<br />
-[Homepage](https://chandar-lab.github.io/IIRC/) | [arXiv](https://arxiv.org/abs/2012.12477) | [Documentation](https://iirc.readthedocs.io/en/latest/) | [Code](https://github.com/chandar-lab/IIRC/)
-
  <div class="publication">
   <div class="image">
     <img src="./images/summary.png" alt=""/>
@@ -27,6 +18,7 @@ A setup and benchmark to evaluate lifelong learning models in more dynamic and r
      <a href="https://chandar-lab.github.io/IIRC/"><b>IIRC: Incremental Implicitly Refined Classification</b></a>
      <br><i>Mohamed Abdelsalam, Mojtaba Faramarzi, Shagun Sodhani, Sarath Chandar</i>
      <br>A setup and benchmark to evaluate lifelong learning models in more dynamic and realistic scenarios.
-     <br><a href="https://chandar-lab.github.io/IIRC/">Homepage</a> | <a href="https://arxiv.org/abs/2012.12477">arXiv</a> | <a href="https://iirc.readthedocs.io/en/latest/">Documentation</a> | <a href="https://github.com/chandar-lab/IIRC/">Code</a>
+     <br><a href="https://chandar-lab.github.io/IIRC/">Homepage</a> | <a href="https://arxiv.org/abs/2012.12477">arXiv</a> | 
+     <a href="https://iirc.readthedocs.io/en/latest/">Documentation</a> | <a href="https://github.com/chandar-lab/IIRC/">Code</a>
     </div>
   </div>
