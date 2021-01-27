@@ -13,11 +13,11 @@ float: left;
 }
 .publication.image{
  flex-grow: 1;
- flex-basis: 0;
+ flex-basis: 35%;
 }
 .publication.text{
  flex-grow: 2;
- flex-basis: 0;
+ flex-basis: 60%;
 }
 //   &__image {
 //     display: inline-block;
