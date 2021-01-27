@@ -13,7 +13,7 @@ My researsh interests are generally broad within the field of machine learning a
 
 <img src="./images/summary.png" alt="" width="250" height="150" id="ri"/> [**IIRC: Incremental Implicitly Refined Classification**](https://chandar-lab.github.io/IIRC/)
 <br />
-Mohamed Abdelsalam, Mojtaba Faramarzi, Shagun Sodhani, Sarath Chandar
+*Mohamed Abdelsalam, Mojtaba Faramarzi, Shagun Sodhani, Sarath Chandar*
 <br />
 A setup and benchmark to evaluate lifelong learning models in more real-life aligned scenarios.
 <br />
