@@ -10,10 +10,11 @@ float: left;
 
 .publication {
  display: flex;
+ align-items: center;
+ img {max-width:100%;}
 }
 .publication.image{
  flex: 35%;
- vertical-align: center;
 }
 .publication.text{
  flex: 60%;
