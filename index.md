@@ -10,4 +10,7 @@ I am currently doing a Master of Research in Machine Learning at
 My researsh interests are generally broad within the field of machine learning and deep learning. My current focus is in the area of incremental learning and how the models should be smarter in accumulating new knowledge and learning new tasks without foregoing previous knowledge and experience, even when data for these previous tasks is not there or is very limited. 
 
 ### IIRC: Incremental Implicitly Refined Classification
-![IIRC](https://github.com/MohamedAbdelsalam9/mohamedabdelsalam9.github.io/blob/master/images/summary.png)
+![IIRC](images/summary.png)
+<p align="left">
+  <img src="images/summary.png" width="350" title="IIRC">
+</p>
