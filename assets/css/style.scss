@@ -8,17 +8,24 @@ float: left;
  margin: 0 15px 0 15px;
 }
 
-.container {
-  &__image {
-    display: inline-block;
-    vertical-align: center;
-    width: 46%;
-  }
-  &__text {
-    display: inline-block;
-    width: 46%;
-    @media (max-width: 620px) {
-      width: 100%;
-   }
-  }
+.publication {
+ display: flex;
 }
+.publication.image{
+ flex: 1;
+}
+.publication.text{
+ flex: 2;
+}
+//   &__image {
+//     display: inline-block;
+//     vertical-align: center;
+//     width: 46%;
+//   }
+//   &__text {
+//     display: inline-block;
+//     width: 46%;
+//     @media (max-width: 620px) {
+//       width: 100%;
+//    }
+// }
