@@ -17,7 +17,8 @@ My researsh interests are generally broad within the field of machine learning a
     <div class="text">
      <a href="https://chandar-lab.github.io/IIRC/"><b>IIRC: Incremental Implicitly Refined Classification</b></a>
      <br><i>Mohamed Abdelsalam, Mojtaba Faramarzi, Shagun Sodhani, Sarath Chandar.</i>
-     <br>A setup and benchmark to evaluate lifelong learning models in more dynamic and realistic scenarios.
+     <br><i>CVPR</i>, 2021
+     <br>A setup and benchmark for evaluating lifelong learning models in more dynamic and realistic scenarios.
      <br><a href="https://chandar-lab.github.io/IIRC/">Homepage</a> | <a href="https://arxiv.org/abs/2012.12477">arXiv</a> | 
      <a href="https://iirc.readthedocs.io/en/latest/">Documentation</a> | <a href="https://github.com/chandar-lab/IIRC/">Code</a>
     </div>
