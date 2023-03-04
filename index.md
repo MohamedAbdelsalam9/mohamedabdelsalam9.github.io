@@ -35,7 +35,7 @@ Broadly speaking, my research interests lie in the field of machine learning and
      <a href="https://iirc.readthedocs.io/en/latest/">Documentation</a> | <a href="https://github.com/chandar-lab/IIRC/">Code</a>
     </div>
 </div>
-
+     <br><br><br> 
 ### Primers
 <div class="text">
  <a href="https://arxiv.org/pdf/2207.04354.pdf"><b>An Introduction to Lifelong Supervised Learning</b></a>
