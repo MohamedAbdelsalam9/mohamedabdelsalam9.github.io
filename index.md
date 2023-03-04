@@ -4,12 +4,13 @@ layout: default
 
 # Mohamed Ashraf Abdelsalam
 
-I am currently doing a Master of Research in Machine Learning at 
-<a href="mila.quebec/en/"> Mila </a> and University of Montreal, where I am supervised by <a href="http://sarathchandar.in/">Dr. Sarath Chandar </a>. In 2018, I obtained my Bachelor degree in Aerospace Engineering from <a href="https://zewailcity.edu.eg/">Zewail University of Science and Technology</a>.
+I am currently a Machine Learning Research Engineer in Samsung AI Center (SAIC) Toronto. Before that, I did a Master of Research in Machine Learning at 
+<a href="mila.quebec/en/"> Mila </a> and University of Montreal, where I was supervised by <a href="http://sarathchandar.in/">Dr. Sarath Chandar </a>. In 2018, I obtained my Bachelor degree in Aerospace Engineering from <a href="https://zewailcity.edu.eg/">Zewail University of Science and Technology</a>.
 
 ## Research
 Broadly speaking, my research interests lie in the field of machine learning and deep learning. Currently, I am primarily focused on multimodal research research in the intersection of vision and language. Additionally, I am also interested in the area of continual learning and the development of flexible models that can accumulate new knowledge, modify existing knowledge, and learn new tasks without forgetting previously acquired knowledge and experiences, even in the absence of data or with limited data available for these prior tasks.
 
+### Publications
  <div class="publication">
     <div class="text">
      <a href="https://arxiv.org/abs/2210.14862"><b>Visual Semantic Parsing: From Images to Abstract Meaning Representation</b></a>
@@ -18,6 +19,8 @@ Broadly speaking, my research interests lie in the field of machine learning and
      <br>The paper proposes a new method for visual scene understanding by using Abstract Meaning Representation (AMR) to create linguistically informed visual AMR graphs that focus on higher-level semantic concepts, and demonstrate the feasibility of the approach through experimentation and analysis.
      <br><a href="https://arxiv.org/abs/2210.14862">arXiv</a>
     </div>
+ 
+ 
   <div class="image">
     <img src="./images/summary.png" alt=""/>
   </div>
