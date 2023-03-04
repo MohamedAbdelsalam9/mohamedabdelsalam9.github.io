@@ -16,15 +16,13 @@ Broadly speaking, my research interests lie in the field of machine learning and
      <br><i><b>Mohamed A. Abdelsalam</b>, Zhan Shi, Federico Fancellu, Kalliopi Basioti, Dhaivat J. Bhatt, Vladimir Pavlovic, Afsaneh Fazly.</i>
      <br><i>CoNLL</i>, 2022
      <br>The paper proposes a new method for visual scene understanding by using Abstract Meaning Representation (AMR) to create linguistically informed visual AMR graphs that focus on higher-level semantic concepts, and demonstrate the feasibility of the approach through experimentation and analysis.
-     <br><a href="https://arxiv.org/abs/2210.14862">arXiv</a>
      <br><br> 
      <div class="text">
      <a href="https://arxiv.org/abs/2210.14862"><b>A Brief Study on the Effects of Training Generative Dialogue Models with a Semantic loss</b></a>
      <br>Prasanna Parthasarathi, <b>Mohamed A. Abdelsalam</b>, Joelle Pineau, Sarath Chandar</i>
      <br><i>SIGDial</i>, 2021
      <br>The study explores the use of an alternate training objective, minimizing a semantic loss as an auxiliary objective, to foster generating alternate responses and improve diversity in next utterance generation in dialogue tasks, with observations showing improvement in diversity in smaller datasets.
-     <br><a href="https://arxiv.org/abs/2106.10619">arXiv</a>
-     <br><br> 
+\     <br><br> 
  </div>
     <div class="text">
      <a href="https://chandar-lab.github.io/IIRC/"><b>IIRC: Incremental Implicitly Refined Classification</b></a>
@@ -35,6 +33,12 @@ Broadly speaking, my research interests lie in the field of machine learning and
      <br><a href="https://chandar-lab.github.io/IIRC/">Homepage</a> | <a href="https://arxiv.org/abs/2012.12477">arXiv</a> | 
      <a href="https://iirc.readthedocs.io/en/latest/">Documentation</a> | <a href="https://github.com/chandar-lab/IIRC/">Code</a>
     </div>
-<!--     <div class="image">
-   </div> -->
+</div>
+
+### Primers
+<div class="text">
+ <a href="https://arxiv.org/pdf/2207.04354.pdf"><b>An Introduction to Lifelong Supervised Learning</b></a>
+      <img src="./images/summary.png" alt=""/>
+ <br><i>Shagun Sodhani, Mojtaba Faramarzi, Sanket Vaibhav Mehta, Pranshu Malviya, <b>Mohamed A. Abdelsalam</b>, Janarthanan Janarthanan, Sarath Chandar.</i>
+ <br>This primer is an attempt to provide a detailed summary of the different aspects of lifelong supervised learning.
 </div>
