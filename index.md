@@ -32,3 +32,4 @@ Broadly speaking, my research interests lie in the field of machine learning and
 <div class="image">
      <img src="./images/summary.png" alt=""/>
    </div>
+    </div>
