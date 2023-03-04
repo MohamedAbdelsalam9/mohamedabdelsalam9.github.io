@@ -18,6 +18,7 @@ Broadly speaking, my research interests lie in the field of machine learning and
      <br><i>CoNLL</i>, 202
      <br>The paper proposes a new method for visual scene understanding by using Abstract Meaning Representation (AMR) to create linguistically informed visual AMR graphs that focus on higher-level semantic concepts, and demonstrate the feasibility of the approach through experimentation and analysis.
      <br><a href="https://arxiv.org/abs/2210.14862">arXiv</a>
+      <br>
  </div>
     <div class="text">
      <a href="https://chandar-lab.github.io/IIRC/"><b>IIRC: Incremental Implicitly Refined Classification</b></a>
