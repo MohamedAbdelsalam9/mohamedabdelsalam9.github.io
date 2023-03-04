@@ -30,4 +30,3 @@ Broadly speaking, my research interests lie in the field of machine learning and
      <br><a href="https://chandar-lab.github.io/IIRC/">Homepage</a> | <a href="https://arxiv.org/abs/2012.12477">arXiv</a> | 
      <a href="https://iirc.readthedocs.io/en/latest/">Documentation</a> | <a href="https://github.com/chandar-lab/IIRC/">Code</a>
     </div>
-  </div>
