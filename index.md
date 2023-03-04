@@ -10,15 +10,15 @@ I am currently a Machine Learning Research Engineer in Samsung AI Center (SAIC) 
 ## Research
 Broadly speaking, my research interests lie in the field of machine learning and deep learning. Currently, I am primarily focused on multimodal research research in the intersection of vision and language. Additionally, I am also interested in the area of continual learning and the development of flexible models that can accumulate new knowledge, modify existing knowledge, and learn new tasks without forgetting previously acquired knowledge and experiences, even in the absence of data or with limited data available for these prior tasks.
 
-<!-- ### Publications -->
+### Publications
  <div class="publication">
-    <div class="text">
+<!--     <div class="text">
      <a href="https://arxiv.org/abs/2210.14862"><b>Visual Semantic Parsing: From Images to Abstract Meaning Representation</b></a>
      <br><i>Mohamed A. Abdelsalam, Zhan Shi, Federico Fancellu, Kalliopi Basioti, Dhaivat J. Bhatt, Vladimir Pavlovic, Afsaneh Fazly.</i>
      <br><i>CoNLL</i>, 202
      <br>The paper proposes a new method for visual scene understanding by using Abstract Meaning Representation (AMR) to create linguistically informed visual AMR graphs that focus on higher-level semantic concepts, and demonstrate the feasibility of the approach through experimentation and analysis.
      <br><a href="https://arxiv.org/abs/2210.14862">arXiv</a>
-    </div>
+    </div> -->
  
  
     <div class="text">
