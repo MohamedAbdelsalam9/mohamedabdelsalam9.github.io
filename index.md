@@ -15,7 +15,7 @@ Broadly speaking, my research interests lie in the field of machine learning and
     <div class="text">
      <a href="https://arxiv.org/abs/2210.14862"><b>Visual Semantic Parsing: From Images to Abstract Meaning Representation</b></a>
      <br><i>Mohamed A. Abdelsalam, Zhan Shi, Federico Fancellu, Kalliopi Basioti, Dhaivat J. Bhatt, Vladimir Pavlovic, Afsaneh Fazly.</i>
-     <br><i>CoNLL</i>, 202
+     <br><i>CoNLL</i>, 2022
      <br>The paper proposes a new method for visual scene understanding by using Abstract Meaning Representation (AMR) to create linguistically informed visual AMR graphs that focus on higher-level semantic concepts, and demonstrate the feasibility of the approach through experimentation and analysis.
      <br><a href="https://arxiv.org/abs/2210.14862">arXiv</a>
      <br><br> 
