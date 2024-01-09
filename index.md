@@ -11,7 +11,14 @@ Broadly speaking, my research interests lie in the field of machine learning and
 
 ### Publications
  <div class="publication">
-    <div class="text">
+  <div class="text">
+     <a href="https://arxiv.org/abs/2310.08312"><b>GePSAn: Generative Procedure Step Anticipation in Cooking Videos</b></a>
+     <br><i><b>Mohamed A. Abdelsalam</b>,  Samrudhdhi B. Rangrej, Isma Hadji, Nikita Dvornik, Konstantinos G. Derpanis, Afsaneh Fazly.</i>
+     <br><i>ICCV</i>, 2023
+     <br>We've developed a generative deep learning model to predict the next steps in procedural videos using natural language. This model, unique in its ability to generate diverse and plausible outcomes, was pretrained on a large text corpus before application to video data. It sets new benchmarks on the YouCookII dataset and is capable of zero-shot transfer from text to video, showcasing versatility and accuracy in predicting future steps without any need for fine-tuning.
+      </div>
+     <br><br>  
+  <div class="text">
      <a href="https://arxiv.org/abs/2210.14862"><b>Visual Semantic Parsing: From Images to Abstract Meaning Representation</b></a>
      <br><i><b>Mohamed A. Abdelsalam</b>, Zhan Shi, Federico Fancellu, Kalliopi Basioti, Dhaivat J. Bhatt, Vladimir Pavlovic, Afsaneh Fazly.</i>
      <br><i>CoNLL</i>, 2022
@@ -35,7 +42,6 @@ Broadly speaking, my research interests lie in the field of machine learning and
      <a href="https://iirc.readthedocs.io/en/latest/">Documentation</a> | <a href="https://github.com/chandar-lab/IIRC/">Code</a>
     </div>
 </div>
-     <br><br><br> 
      
 ### Primers
 <div class="text">
