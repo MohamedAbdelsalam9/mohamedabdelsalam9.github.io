@@ -140,7 +140,7 @@ I am a Senior ML Research Engineer at Samsung AI Center in Toronto, where my res
       <a href="https://arxiv.org/abs/2106.10619">A Brief Study on the Effects of Training Generative Dialogue Models with a Semantic loss</a>
     </div>
     <div class="pub-authors">
-      Prasanna Parthasarathi, <b>Mohamed A. Abdelsalam</b>, Joelle Pineau, Sarath Chandar
+      Prasanna Parthasarathi*, <b>Mohamed A. Abdelsalam</b>*, Joelle Pineau, Sarath Chandar
     </div>
     <div class="pub-venue">SIGDial 2021</div>
     <div class="pub-abstract">
