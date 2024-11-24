@@ -4,72 +4,60 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Mohamed Abdelsalam - Machine Learning Research Engineer">
-    <meta name="keywords" content="Machine Learning, AI, Computer Vision, Natural Language Processing, Research">
-    
-    {% seo %}
+
+{% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-    
-    <!-- Favicon -->
-    <link rel="icon" type="image/x-icon" href="{{ "/assets/images/favicon.ico" | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
   </head>
   <body>
     <div class="wrapper">
       <header>
-        <h1>
-          <a href="{{ "/" | absolute_url }}" class="site-title">
-            {{ site.title | default: site.github.repository_name }}
-          </a>
-        </h1>
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Mohamed Abdelsalam" class="profile-image" />
+          <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p class="site-description">{{ site.description | default: site.github.project_tagline }}</p>
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        <nav class="social-links">
-          <a href="https://github.com/MohamedAbdelsalam9" title="GitHub">
-            <i class="fab fa-github"></i>
-          </a>
-          <a href="https://scholar.google.com/citations?user=IIZHWHoAAAAJ" title="Google Scholar">
-            <i class="fas fa-graduation-cap"></i>
-          </a>
-          <a href="https://www.linkedin.com/in/mabdelsalam9/" title="LinkedIn">
-            <i class="fab fa-linkedin"></i>
-          </a>
-          <a href="mailto:mabdelsalam944@gmail.com" title="Email">
-            <i class="fas fa-envelope"></i>
-          </a>
-        </nav>
+        {% if site.github.is_project_page %}
+        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
+        {% endif %}
+
+<!--         {% if site.github.is_user_page %}
+        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
+        {% endif %} -->
+
+        <ul class="downloads">
+          <li><a href="https://github.com/MohamedAbdelsalam9">Github</a></li>
+          <li><a href="https://scholar.google.com/citations?user=IIZHWHoAAAAJ">Scholar</a></li>
+          <li><a href="https://www.linkedin.com/in/mabdelsalam9/">Linkedin</a></li>
+          <li><a href="mailto:mabdelsalam944@gmail.com">Email</a></li>
+        </ul>
       </header>
+      <section>
 
-      <section class="main-content">
-        {{ content }}
+      {{ content }}
+
       </section>
-
       <footer>
-        <p class="copyright">
-          <small>
-            © {{ 'now' | date: "%Y" }} Mohamed Ashraf Abdelsalam
-            <span class="separator">|</span>
-            Hosted on GitHub Pages
-          </small>
-        </p>
+        {% if site.github.is_project_page %}
+        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        {% endif %}
+<!--         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p> -->
       </footer>
     </div>
-
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
-    
     {% if site.google_analytics %}
-    <!-- Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
     <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', '{{ site.google_analytics }}');
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', '{{ site.google_analytics }}', 'auto');
+      ga('send', 'pageview');
     </script>
     {% endif %}
   </body>
