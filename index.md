@@ -71,7 +71,7 @@ I am a Senior ML Research Engineer at Samsung AI Center in Toronto, where my res
 <div class="publications">
   <div class="publication-item">
     <div class="pub-title">
-      <a href="https://arxiv.org/abs/2310.08312">CIC-BART-SSA: Controllable Image Captioning with Structured Semantic Augmentation</a>
+      <a href="https://arxiv.org/abs/2407.11393">CIC-BART-SSA: Controllable Image Captioning with Structured Semantic Augmentation</a>
     </div>
     <div class="pub-authors">
      Kalliopi Basioti, <b>Mohamed A. Abdelsalam</b>, Federico Fancellu, Vladimir Pavlovic, Afsaneh Fazly
@@ -140,7 +140,7 @@ I am a Senior ML Research Engineer at Samsung AI Center in Toronto, where my res
 
   <div class="publication-item">
     <div class="pub-title">
-      <a href="https://arxiv.org/abs/2210.14862">A Brief Study on the Effects of Training Generative Dialogue Models with a Semantic loss</a>
+      <a href="https://arxiv.org/abs/2106.10619">A Brief Study on the Effects of Training Generative Dialogue Models with a Semantic loss</a>
     </div>
     <div class="pub-authors">
       Prasanna Parthasarathi, <b>Mohamed A. Abdelsalam</b>, Joelle Pineau, Sarath Chandar
@@ -150,15 +150,23 @@ I am a Senior ML Research Engineer at Samsung AI Center in Toronto, where my res
       An exploration of semantic loss as an auxiliary objective to improve diversity in dialogue response generation, showing particular effectiveness for smaller datasets.
     </div>
     <div class="pub-links">
-      <a href="https://arxiv.org/abs/2210.14862">Paper</a>
+      <a href="https://arxiv.org/abs/2106.10619">Paper</a>
     </div>
   </div>
 </div>
 
      
 ### Primers
-<div class="text">
- <a href="https://arxiv.org/pdf/2207.04354.pdf"><b>An Introduction to Lifelong Supervised Learning</b></a>
- <br><i>Shagun Sodhani, Mojtaba Faramarzi, Sanket Vaibhav Mehta, Pranshu Malviya, <b>Mohamed A. Abdelsalam</b>, Janarthanan Janarthanan, Sarath Chandar.</i>
- <br>This primer is an attempt to provide a detailed summary of the different aspects of lifelong supervised learning.
+<div class="publications">
+  <div class="publication-item">
+    <div class="pub-title">
+      <a href="https://arxiv.org/pdf/2207.04354.pdf">An Introduction to Lifelong Supervised Learning</a>
+    </div>
+    <div class="pub-authors">
+     Shagun Sodhani, Mojtaba Faramarzi, Sanket Vaibhav Mehta, Pranshu Malviya, <b>Mohamed A. Abdelsalam</b>, Janarthanan Janarthanan, Sarath Chandar
+    </div>
+    <div class="pub-abstract">
+      This primer is an attempt to provide a detailed summary of the different aspects of lifelong supervised learning.
+    </div>
+  </div>
 </div>
