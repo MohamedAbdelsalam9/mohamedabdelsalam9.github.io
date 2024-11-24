@@ -114,9 +114,6 @@ I am a Senior ML Research Engineer at Samsung AI Center in Toronto, where my res
     <div class="pub-abstract">
       A novel method for visual scene understanding using Abstract Meaning Representation (AMR) to create linguistically informed visual AMR graphs for higher-level semantic concepts.
     </div>
-    <div class="pub-links">
-      <a href="https://arxiv.org/abs/2210.14862">Paper</a>
-    </div>
   </div>
 
   <div class="publication-item">
@@ -148,9 +145,6 @@ I am a Senior ML Research Engineer at Samsung AI Center in Toronto, where my res
     <div class="pub-venue">SIGDial 2021</div>
     <div class="pub-abstract">
       An exploration of semantic loss as an auxiliary objective to improve diversity in dialogue response generation, showing particular effectiveness for smaller datasets.
-    </div>
-    <div class="pub-links">
-      <a href="https://arxiv.org/abs/2106.10619">Paper</a>
     </div>
   </div>
 </div>
