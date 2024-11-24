@@ -3,8 +3,10 @@ layout: default
 ---
 
 # Mohamed Ashraf Abdelsalam
+I am a Senior Machine Learning Research Engineer at Samsung AI Center (SAIC) Toronto, focusing on multimodal AI research. Previously, I completed my Master's in Machine Learning at <a href="mila.quebec/en/"> Mila</a> under the supervision of <a href="http://sarathchandar.in/">Dr. Sarath Chandarr</a>. I hold a Bachelor's in Aerospace Engineering from <a href="https://zewailcity.edu.eg/">Zewail University of Science and Technology</a>. Check out my personal <a href="/CV.pdf">CV</a> for more details!
 
-I work as a Machine Learning Research Engineer at Samsung AI Center (SAIC) Toronto. Before that, I did my Master's in Machine Learning at <a href="mila.quebec/en/"> Mila </a> and the University of Montreal, where I was supervised by <a href="http://sarathchandar.in/">Dr. Sarath Chandar</a> . In 2018, I completed my Bachelor's in Aerospace Engineering from <a href="https://zewailcity.edu.eg/">Zewail University of Science and Technology</a>. Check out my personal <a href="/CV.pdf">CV</a> for more details!
+I am a Senior ML Research Engineer at Samsung AI Center in Toronto, where my research focuses on multimodal AI, working at the intersection of vision and language. Previously, I completed my Master's in Machine Learning at Mila and University of Montreal with Dr. Sarath Chandar, where I mainly worked on lifelong and incremental learning systems. I hold a Bachelor's in Aerospace Engineering from Zewail University of Science and Technology. Check out my personal <a href="/CV.pdf">CV</a> for more details!
+
 
 ## Research
 Broadly speaking, my research interests lie in the field of machine learning and deep learning. Currently, I am primarily focused on multimodal research research in the intersection of vision and language. Additionally, I am also interested in the area of continual learning and the development of flexible models that can accumulate new knowledge, modify existing knowledge, and learn new tasks without forgetting previously acquired knowledge and experiences, even in the absence of data or with limited data available for these prior tasks.
